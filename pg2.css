@@ -1,0 +1,35 @@
+body {
+  background-color: #d2e0bf;
+}
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+main {
+  padding-top: 100px;
+  margin-left: 80px;
+  margin-right: 80px;
+  background-color: #d2e0bf;
+}
+a {
+  font-family: "Raleway", sans-serif;
+}
+h1 {
+  font-family: "Raleway", sans-serif;
+}
+p {
+  font-family: "Merriweather", serif;
+}
+h2 {
+  font-family: "Raleway", sans-serif;
+}
